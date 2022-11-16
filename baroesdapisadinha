@@ -1,0 +1,38 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🎶 Barões da Pisadinha - só basta você me liga 🎶" ,"All")
+
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("...Falou que eu to com nojo da tua cara" ,"All")
+
+wait(2)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("E não quero te ver nem de graça" ,"All")
+
+
+wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Digo que eu não volto nem a pau... E que tu não vale um real" ,"All")
+
+wait(2)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("...Mas é só tu liga pra mim" ,"All")
+
+wait(2)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Que eu não resisto" ,"All")
+
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Eu queria dizer não mas não consigo" ,"All")
+
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("É só me liga que a perna fica bamba" ,"All")
+
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Bateu saudade, eu vou parar na sua cama" ,"All")
+
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Só basta você me liga, ah" ,"All")
+
+wait(2)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Que eu vou correndo te encontrar" ,"All")
+
+wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("(Só basta você me liga, ah)" ,"All")
+
+wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("criador: sxrge # 555 7" ,"All")
