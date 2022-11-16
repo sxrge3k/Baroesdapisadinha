@@ -34,5 +34,5 @@ game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
 wait(1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("(Só basta você me liga, ah)" ,"All")
 
-wait(1)
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("criador: sxrge # 555 7" ,"All")
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Que eu vou correndo te encontrar.." ,"All")
